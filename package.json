@@ -32,7 +32,7 @@
     "serialize-javascript": "^4.0.0",
     "webpack-dashboard": "^3.2.0",
     "webpack-dev-server": "^3.11.0",
-    "ws": "^7.3.0",
+    "ws": "^7.4.6",
     "zone.js": "^0.8.14"
   },
   "devDependencies": {
